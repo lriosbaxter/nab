@@ -1,0 +1,32 @@
+{
+  "Regions": {
+    "LATAM": {
+      "Carriers_per_region": [
+        "Aeronet",
+        "Alestra",
+        "Algar"
+      ]
+    },
+    "EMEA": {
+      "Carriers_per_region": [
+        "Aeronet",
+        "Alestra",
+        "Algar"
+      ]
+    },
+    "APAC": {
+      "Carriers_per_region": [
+        "Aeronet",
+        "Alestra",
+        "Algar"
+      ]
+    },
+    "Americas": {
+      "Carriers_per_region": [
+        "Aeronet",
+        "Alestra",
+        "Algar"
+      ]
+    }
+  }
+}
